@@ -33,9 +33,8 @@ dependencies {
     implementation "org.jetbrains.anko:anko-design:$anko_version"
     implementation "org.jetbrains.anko:anko-cardview-v7:$anko_version"
 
-    implementation 'org.jetbrains.anko:anko-sdk15:0.8.3'
-    implementation "org.jetbrains.anko:anko-design:0.8.3"
-    implementation 'org.jetbrains.anko:anko-appcompat-v7:0.8.3'
+    implementation "org.jetbrains.anko:anko-sdk15:$anko_version"
+    implementation "org.jetbrains.anko:anko-appcompat-v7:$anko_version"
 
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
